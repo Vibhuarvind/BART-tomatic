@@ -1,5 +1,4 @@
 
-```markdown
 # BART-tomatic
 
 AI-powered video transcription and summarization using Hugging Face’s BART and OpenAI Whisper. Fast, accurate, and organized outputs.
@@ -8,7 +7,6 @@ AI-powered video transcription and summarization using Hugging Face’s BART and
 
 This Python tool automatically **transcribes** and **summarizes** video files using [OpenAI Whisper](https://github.com/openai/whisper) and Hugging Face Transformers.
 
----
 
 ## ✨ Features
 
@@ -18,25 +16,6 @@ This Python tool automatically **transcribes** and **summarizes** video files us
 - 📁 Organized output: audio, transcript, and summary in separate folders  
 - 🔧 Easy to run locally on macOS/Linux  
 
----
-
-## 📂 Folder Structure
-
-```
-
-project/
-├── video/       # Place your input video files here
-│   └── sample\_video.mp4
-├── audio/       # Auto-generated audio WAV files
-│   └── sample\_video\_audio.wav
-├── transcript/  # Auto-generated transcripts
-│   └── sample\_video\_transcript.txt
-└── summary/     # Auto-generated summaries
-└── sample\_video\_summary.txt
-
-````
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -125,19 +104,3 @@ python3 video_summarizer.py video/my_video.mp4
 * Timestamped transcripts
 
 ---
-
-## 📜 License
-
-MIT License. See LICENSE file.
-
----
-
-## 🙌 Credits
-
-* Whisper by OpenAI
-* Transformers by Hugging Face
-
-```
-
-Bas isse copy kar ke `README.md` me daal dijiye, ready to go!
-```
