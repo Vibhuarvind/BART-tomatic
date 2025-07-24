@@ -1,4 +1,3 @@
-Bilkul! Pure README ko ek hi continuous markdown block me likh diya hai — aap bas copy-paste kar lijiye:
 
 ```markdown
 # BART-tomatic
