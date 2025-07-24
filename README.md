@@ -72,7 +72,7 @@ Or manually install:
 2. Run the summarizer script:
 
 ```bash
-python3 video_summarizer.py video/my_video.mp4
+python3 Video_Summarizer.py video/my_video.mp4
 ```
 
 3. Check the generated outputs:
