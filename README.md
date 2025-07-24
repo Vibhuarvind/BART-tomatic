@@ -1,6 +1,6 @@
 # 🎥 Video Summarizer with Whisper and Transformers
 
-This Python tool automatically **transcribes** and **summarizes** video files using [OpenAI Whisper](https://github.com/openai/whisper) and Hugging Face Transformers.
+This Python tool automatically **transcribes** and **summarizes** video files using [OpenAI Whisper](https://github.com/openai/whisper) and Hugging Face Transformers.I created this tool because those long, hour-long Kt session videos I have stored locally can be a pain to watch from start to finish. When I’m short on time or just feeling lazy, getting a clear, concise text summary helps me save hours while still catching every important detail. It’s the fastest way I know to stay informed without sitting through the entire video.
 
 
 ## ✨ Features
@@ -17,8 +17,8 @@ This Python tool automatically **transcribes** and **summarizes** video files us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/video-summarizer.git
-cd video-summarizer
+git clone https://github.com/Vibhuarvind/BART-tomatic.git
+cd BART-tomatic
 ````
 
 ### 2. Set up your Python environment
