@@ -98,4 +98,5 @@ python3 Video_Summarizer.py video/my_video.mp4
 * Web interface or Streamlit app
 * Timestamped transcripts
 
+[Linkedin](https://www.linkedin.com/posts/vidishah_ai-whisper-bart-activity-7354257197016535040-XFss?utm_source=share&utm_medium=member_desktop&rcm=ACoAACk7t8oBGDUzuOS_gXo_FUa8p_QKmw3-NcY)
 ---
